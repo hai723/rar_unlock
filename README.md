@@ -5,3 +5,5 @@
 | file | Description |
 | ------ | ----------- |
 | **unrarcrack.exe** | the file Extracted and run cmd unlock rar |
+| **RAR Password Unlocker.bat** | the file unlock rar |
+| **fix_windows.cmd** | run the file if windows defender eror |
